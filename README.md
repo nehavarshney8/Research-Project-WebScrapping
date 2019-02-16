@@ -1,4 +1,4 @@
-# AUTOMATION--WEB-SCRAPING
+# AUTOMATION--WEB-SCRAPING-Research-Project
 Python Script to web scrape the data from Beer Advocate Website and load the structured data to SQLITE DATABASE
 
 TOPIC OF RESEARCH: AQUISITIONS OF Anheuser-Busch InBev
