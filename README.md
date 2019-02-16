@@ -3,6 +3,17 @@ Python Script to web scrape the data from Beer Advocate Website and load the str
 
 TOPIC OF RESEARCH: AQUISITIONS OF Anheuser-Busch InBev
 
+Technology: 
+python-3-6
+
+webscraping
+
+beautifulsoup4
+
+urllib3
+
+document-object-model
+
 GOAL OF THIS SCRIPT: To Gather and validate data
 
 Website to scrape data from: BeerAdvocate
