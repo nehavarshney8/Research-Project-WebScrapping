@@ -30,10 +30,3 @@ _Use the Regular Expression to validate the string_
 
 _Use the object to load the cursor into the database_
 
-# Conclusion:
-
-I am happy to this work, as this helped me learn about getting daat from unstructures to structured format. 
-
-Also, it made me immplement the Document Object Model in reverse Engineering
-
-Leant about THE POWERFUL LIBRARY:: BEAUTIFUL SOUP
